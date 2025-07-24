@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página de Teste</title>
+</head>
+<body>
+    <h1>Servidor rodando!</h1>
+    <p>Se você está vendo essa página, o servidor local está funcionando corretamente.</p>
+</body>
+</html>
